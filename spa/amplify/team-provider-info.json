@@ -1,0 +1,15 @@
+{
+    "spa": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-spa-spa-224514-authRole",
+            "UnauthRoleArn": "arn:aws:iam::198976201223:role/amplify-spa-spa-224514-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::198976201223:role/amplify-spa-spa-224514-authRole",
+            "Region": "us-west-2",
+            "DeploymentBucketName": "amplify-spa-spa-224514-deployment",
+            "UnauthRoleName": "amplify-spa-spa-224514-unauthRole",
+            "StackName": "amplify-spa-spa-224514",
+            "StackId": "arn:aws:cloudformation:us-west-2:198976201223:stack/amplify-spa-spa-224514/f6773fb0-7892-11ea-98fd-029d56ff9702",
+            "AmplifyAppId": "d2cafjroh82s8k"
+        }
+    }
+}
